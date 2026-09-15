@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm **Gonçalo**. I'm currently finishing my **Bachelor's degree in Computer Science and Engineering** in Instituto Superior Técnico. 
+Hi, I'm **Gonçalo**. I'm currently finishing my **Bachelor's degree in Computer Science and Engineering** in Instituto Superior Técnico ![IST] (https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20121203001417). 
 I'm passionate about 🧠 Artificial Intelligence, 🧮 Algorithms and 💻 Software Engineering.
 
 # 🛠️ Tech Stack
